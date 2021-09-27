@@ -1,2 +1,2 @@
 # DW2A4
-repositório destinado às atividades da matéria de Desenvolvimento Web II.
+Repositório destinado às atividades da matéria de Desenvolvimento Web II.
